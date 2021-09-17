@@ -1,7 +1,7 @@
 # Simple Chat Room
 
 > Shangyu Ko
-[TOC]
+
 Simple Chat Room is a C-language-based server-client system with no User Interface. This project is for Socket Programming and Protocol practicing. It provides users to:
 - sing up/log in/auto log in
 - add/modify friend list
